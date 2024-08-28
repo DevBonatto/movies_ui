@@ -14,9 +14,6 @@ This project involves the creation of an UI, which can be used to interact with 
 - React.js
 - Node.js
 
-## 📐 Project Structure
-![Structure](./assets/app_structure.png)
-
 ## ▶️ Running
 Clone the project with:
 ```bash
